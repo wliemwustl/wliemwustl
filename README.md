@@ -1,5 +1,8 @@
-![alt text](https://github.com/wliemwustl/wliemwustl/blob/main/ssdllogo.png)
-### Hi there 👋
+<p align="center" >
+  <img width="400" height="226" src="https://github.com/wliemwustl/wliemwustl/blob/main/ssdllogo.png">
+<p />
+
+### Hi there! 👋
 
 This repository is meant to be an open-source way of sharing commonly used system dynamics models. We have three different repositories for you to download from:
 
